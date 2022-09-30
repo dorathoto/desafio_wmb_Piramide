@@ -60,7 +60,6 @@ internal class Program
                     if (c >= a)
                     {
                         Console.Write("#");
-
                     }
                     else
                     {
